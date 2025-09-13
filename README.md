@@ -7,16 +7,8 @@
 
 ## 🚀 Tecnologias que conheço
 
-### 💾 SQL  
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-
-### ⚡ JavaScript  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-
-### 🐍 Python  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-
----
+### 💾 SQL  ⚡ JavaScript  🐍 Python  
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   
 
 ## 📊 Estatísticas do GitHub
 
