@@ -7,7 +7,7 @@
 
 ## 🚀 Foco Atual & Tecnologias
 
-Atualmente focado no aprofundamento em **C# / .NET** (Programação Orientada a Objetos, Windows Forms, ADO.NET, Arquitetura em Camadas) e **SQL** (Modelagem, Consultas e Manipulação de Dados).
+Atualmente focado no aprofundamento em **C# / .NET** (Programação Orientada a Objetos, Windows Forms, Arquitetura em Camadas) e **SQL** (Modelagem, Consultas e Manipulação de Dados).
 
 ### 🔷 C# | 💾 SQL
 
